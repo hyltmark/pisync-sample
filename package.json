@@ -1,0 +1,21 @@
+{
+  "name": "pisync-sample",
+  "version": "0.1.0",
+  "description": "Sample project for pisync.",
+  "license": "MIT",
+  "author": "Ulf Hyltmark <ulf@hyltmark.com>",
+  "repository": "hyltmark/pisync-sample",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "app.js",
+  "directories": {
+  },
+  "dependencies": {
+  },
+  "files": [
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
